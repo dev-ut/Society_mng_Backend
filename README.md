@@ -1,3 +1,6 @@
+⚠️ Disclaimer:
+This project is a self-created demo inspired by my internship experience. It does not contain any proprietary or confidential code from the original organization. All logic, structure, and content have been independently developed for demonstration purposes only.
+
 # Society Management System (MERN Stack)
 
 A backend system built using **Node.js**, **Express.js**, **MongoDB**, and **Mongoose** for managing society-related data like users, flats, and events.
